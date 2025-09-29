@@ -6,19 +6,19 @@ I'm a computer engineering student at the University of São Paulo and Master's 
 
 <br />
   <div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafael-freitas-garcia&show_icons=true&theme=highcontrast">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-freitas-garcia&layout=compact&theme=highcontrast">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelfrgc&show_icons=true&theme=highcontrast">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfrgc&layout=compact&theme=highcontrast">
   </div>
 <br />
 
 ### Tools that I use:
 
 <div align="center">
-  ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-24BFA5?style=for-the-badge&logo=verilog&logoColor=white)
-  ![VHDL](https://img.shields.io/badge/VHDL-430098?style=for-the-badge&logoColor=white)
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-  ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+  <img src=https://img.shields.io/badge/SystemVerilog-24BFA5?style=for-the-badge&logo=verilog&logoColor=white>
+  <img src=https://img.shields.io/badge/VHDL-430098?style=for-the-badge&logoColor=white>
+  <img src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white>
+  <img src=https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white>
+  <img src=https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white>
  </div>
  
 ### Find me on:

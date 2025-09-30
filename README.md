@@ -1,8 +1,8 @@
-## ♟ Hello! 👋 My Name's Rafael ♟
+## :floppy_disk: Hello! 👋 My Name's Rafael :floppy_disk:
 I'm a computer engineering student at the University of São Paulo and Master's Student at the Institut Polytechnique de Paris. I really like electronics, digital logic and almost anything computer related. On a calm day you might find me taking care of my plants or my aquarium :tropical_fish:.
 
 - :cactus::palm_tree: Dinosaur & Plant Enthusiast
-- 📈 Future Integrated Circuit Designer
+- :computer: Future Integrated Circuit Designer
 
 <br />
   <div align="center">
